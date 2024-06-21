@@ -6,7 +6,7 @@
 
 在工作目录中创建两个文件夹：`input` 和 `output`。
 
-在input中放入要转换的imd，imd的文件名称格式要符合以下习惯：
+在'input'中放入要转换的imd，imd的文件名称格式要符合以下习惯：
 
 woaini_4k_hd.imd
 
@@ -14,7 +14,7 @@ woaini_5k_ez.imd
 
 ...
 
-运行py代码后会在output文件夹中生成对应的aff,如下
+运行py代码后会在output文件夹中生成对应的aff,如下：
 
 woaini_4k_hd.aff
 
