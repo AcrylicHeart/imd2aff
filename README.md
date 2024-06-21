@@ -8,12 +8,11 @@
 
 在`input`中放入要转换的imd，imd的文件名称格式要符合以下习惯：
 
--woaini_4k_hd.imd
--woaini_5k_ez.imd
--...
+```
+样例
+woaini_4k_hd.imd
+woaini_5k_ez.imd
+woaini_6k_nm.imd
+```
 
-运行py代码后会在`output`文件夹中生成对应的aff,如下：
-
--woaini_4k_hd.aff
--woaini_5k_ez.aff
--...
+运行py代码后会在`output`文件夹中生成对应的aff。
